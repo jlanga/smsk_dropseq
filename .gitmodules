@@ -1,3 +1,6 @@
 [submodule "src/snakehooks"]
 	path = src/snakehooks
 	url = https://github.com/jlanga/snakehooks
+[submodule "data/scngs-test-data"]
+	path = data/scngs-test-data
+	url = https://github.com/Hoohm/scngs-test-data
